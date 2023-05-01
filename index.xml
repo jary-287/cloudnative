@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>主页 on My New Hugo Site</title>
+    <link>http://example.org/</link>
+    <description>Recent content in 主页 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 May 2023 16:01:31 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 May 2023 16:01:31 +0800</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>一名普通打工人，关注云原生相关的知识。</description>
+    </item>
+    
+    <item>
+      <title>GitLab CI 入门</title>
+      <link>http://example.org/posts/note/gitlab/</link>
+      <pubDate>Mon, 01 May 2023 15:53:53 +0800</pubDate>
+      
+      <guid>http://example.org/posts/note/gitlab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>这是一个demo文章</title>
+      <link>http://example.org/posts/think/demo/</link>
+      <pubDate>Mon, 01 May 2023 15:53:53 +0800</pubDate>
+      
+      <guid>http://example.org/posts/think/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>⏱时间轴</title>
+      <link>http://example.org/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/archives/</guid>
+      <description>archives</description>
+    </item>
+    
+    <item>
+      <title>🔍搜索</title>
+      <link>http://example.org/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/search/</guid>
+      <description>search</description>
+    </item>
+    
+  </channel>
+</rss>

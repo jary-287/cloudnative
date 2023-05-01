@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>关于 on My New Hugo Site</title>
+    <link>http://example.org/tags/%E5%85%B3%E4%BA%8E/</link>
+    <description>Recent content in 关于 on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 May 2023 16:01:31 +0800</lastBuildDate><atom:link href="http://example.org/tags/%E5%85%B3%E4%BA%8E/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 May 2023 16:01:31 +0800</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>一名普通打工人，关注云原生相关的知识。</description>
+    </item>
+    
+  </channel>
+</rss>
