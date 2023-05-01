@@ -2,52 +2,54 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/about/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/about/</loc>
     <lastmod>2023-05-01T16:01:31+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/tags/</loc>
     <lastmod>2023-05-01T16:01:31+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/</loc>
     <lastmod>2023-05-01T16:01:31+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/tags/%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2023-05-01T16:01:31+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/note/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/posts/note/</loc>
     <lastmod>2023-05-01T15:53:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/categories/</loc>
     <lastmod>2023-05-01T15:53:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/cicd/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/tags/cicd/</loc>
     <lastmod>2023-05-01T15:53:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/gitlab/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/categories/gitlab/</loc>
     <lastmod>2023-05-01T15:53:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/note/gitlab/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/posts/note/gitlab/</loc>
     <lastmod>2023-05-01T15:53:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/golang/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/categories/golang/</loc>
     <lastmod>2023-05-01T15:53:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/linux/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/categories/linux/</loc>
     <lastmod>2023-05-01T15:53:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/posts/</loc>
     <lastmod>2023-05-01T15:53:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/think/demo/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/posts/think/demo/</loc>
     <lastmod>2023-05-01T15:53:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/think/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/posts/think/</loc>
     <lastmod>2023-05-01T15:53:53+08:00</lastmod>
   </url><url>
-    <loc>http://example.org/archives/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/archives/</loc>
   </url><url>
-    <loc>http://example.org/posts/blog/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/posts/blog/</loc>
   </url><url>
-    <loc>http://example.org/search/</loc>
+    <loc>https://jary-287.github.io/cloudnative.github.io/search/</loc>
+  </url><url>
+    <loc>https://jary-287.github.io/cloudnative.github.io/series/</loc>
   </url>
 </urlset>

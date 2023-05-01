@@ -1,56 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>主页 on My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content in 主页 on My New Hugo Site</description>
+    <title>主页 on Javen&#39;s Blog</title>
+    <link>https://jary-287.github.io/cloudnative.github.io/</link>
+    <description>Recent content in 主页 on Javen&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 May 2023 16:01:31 +0800</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 May 2023 16:01:31 +0800</lastBuildDate><atom:link href="https://jary-287.github.io/cloudnative.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>https://jary-287.github.io/cloudnative.github.io/about/</link>
       <pubDate>Mon, 01 May 2023 16:01:31 +0800</pubDate>
       
-      <guid>http://example.org/about/</guid>
-      <description>一名普通打工人，关注云原生相关的知识。</description>
+      <guid>https://jary-287.github.io/cloudnative.github.io/about/</guid>
+      <description>个人的小破站，记录一些笔记和感想，欢迎交流</description>
     </item>
     
     <item>
       <title>GitLab CI 入门</title>
-      <link>http://example.org/posts/note/gitlab/</link>
+      <link>https://jary-287.github.io/cloudnative.github.io/posts/note/gitlab/</link>
       <pubDate>Mon, 01 May 2023 15:53:53 +0800</pubDate>
       
-      <guid>http://example.org/posts/note/gitlab/</guid>
-      <description></description>
+      <guid>https://jary-287.github.io/cloudnative.github.io/posts/note/gitlab/</guid>
+      <description>GitLab入门</description>
     </item>
     
     <item>
       <title>这是一个demo文章</title>
-      <link>http://example.org/posts/think/demo/</link>
+      <link>https://jary-287.github.io/cloudnative.github.io/posts/think/demo/</link>
       <pubDate>Mon, 01 May 2023 15:53:53 +0800</pubDate>
       
-      <guid>http://example.org/posts/think/demo/</guid>
-      <description></description>
+      <guid>https://jary-287.github.io/cloudnative.github.io/posts/think/demo/</guid>
+      <description>这是文章的简短描述</description>
     </item>
     
-    <item>
-      <title>⏱时间轴</title>
-      <link>http://example.org/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/archives/</guid>
-      <description>archives</description>
-    </item>
     
-    <item>
-      <title>🔍搜索</title>
-      <link>http://example.org/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://example.org/search/</guid>
-      <description>search</description>
-    </item>
     
   </channel>
 </rss>

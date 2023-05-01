@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>📕笔记 on My New Hugo Site</title>
-    <link>http://example.org/posts/note/</link>
-    <description>Recent content in 📕笔记 on My New Hugo Site</description>
+    <title>📕笔记 on Javen&#39;s Blog</title>
+    <link>https://jary-287.github.io/cloudnative.github.io/posts/note/</link>
+    <description>Recent content in 📕笔记 on Javen&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 May 2023 15:53:53 +0800</lastBuildDate><atom:link href="http://example.org/posts/note/index.xml" rel="self" type="application/rss+xml" />
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 01 May 2023 15:53:53 +0800</lastBuildDate><atom:link href="https://jary-287.github.io/cloudnative.github.io/posts/note/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>GitLab CI 入门</title>
-      <link>http://example.org/posts/note/gitlab/</link>
+      <link>https://jary-287.github.io/cloudnative.github.io/posts/note/gitlab/</link>
       <pubDate>Mon, 01 May 2023 15:53:53 +0800</pubDate>
       
-      <guid>http://example.org/posts/note/gitlab/</guid>
-      <description></description>
+      <guid>https://jary-287.github.io/cloudnative.github.io/posts/note/gitlab/</guid>
+      <description>GitLab入门</description>
     </item>
     
   </channel>
